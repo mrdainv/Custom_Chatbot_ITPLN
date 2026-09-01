@@ -2,12 +2,7 @@ streamlit
 google-generativeai
 python-dotenv
 langchain
-PyPDF2
-chromaDB
-faiss-cpu
-langchain_google_genai
-beautifulsoup4
-transformers
-pip
 langchain-community
-transformers
+langchain-google-genai
+PyPDF2
+faiss-cpu

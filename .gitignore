@@ -1,2 +1,5 @@
 /waste_files
 /faiss_index
+__pycache__/
+*.py[cod]
+*$py.class
